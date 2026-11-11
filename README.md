@@ -13,3 +13,13 @@ i made a to-do-list of things i wanted to do:
   - I typed yesterday so it ought to be much easier
 - Read a chapter in my book
 - Take a break to sleep
+
+lets try numbering:
+1. food
+2. shoes
+3. clothing
+
+```
+SELECT A,B,C
+WHERE A >B
+```
